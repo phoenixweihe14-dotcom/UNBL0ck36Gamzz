@@ -25,14 +25,14 @@
     "title": "Snake",
     "description": "Classic snake game. Eat the apples and grow.",
     "thumbnail": "https://picsum.photos/seed/snake/400/300",
-    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html"
+    "iframeUrl": "https://m.snake.io/"
   },
   {
     "id": "tetris",
     "title": "Tetris",
     "description": "The world's most popular puzzle game.",
     "thumbnail": "https://picsum.photos/seed/tetris/400/300",
-    "iframeUrl": "https://tetris.com/play-tetris"
+    "iframeUrl": "https://chvin.github.io/react-tetris/"
   },
   {
     "id": "minesweeper",
@@ -46,6 +46,27 @@
     "title": "Chess",
     "description": "Play chess against the computer or a friend.",
     "thumbnail": "https://picsum.photos/seed/chess/400/300",
-    "iframeUrl": "https://www.chess.com/play/computer"
+    "iframeUrl": "https://lichess.org/embed/game/new?theme=auto&bg=auto"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball down a steep slope. Avoid obstacles and stay on the track! High-speed 3D running game.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://kdata1.com/2020/05/slope/"
+  },
+  {
+    "id": "doodlejump",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can in this classic arcade game.",
+    "thumbnail": "https://picsum.photos/seed/doodle/400/300",
+    "iframeUrl": "https://doodlejump.io/game/"
+  },
+  {
+    "id": "hollowknight",
+    "title": "Hollow Knight (IO)",
+    "description": "Fan-made IO version of the classic atmospheric action-adventure.",
+    "thumbnail": "https://picsum.photos/seed/hollow/400/300",
+    "iframeUrl": "https://hollowknight.io/"
   }
 ]
